@@ -7,6 +7,6 @@ app.get('/',(request,response)=>{
 })
 
 
-app.listen('3333',()=>{
-    console.log('Back end iniciado em http://localhost:3333')
+app.listen(process.env.PORT || '5500',()=>{
+    console.log('Back end iniciado em http://localhost:5500')
 })
