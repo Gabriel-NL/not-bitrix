@@ -1,0 +1,2 @@
+-Mostrar apenas o que o setor vai utilizar (ter função de liberar acesso caso for necessário). 
+-Fazer uma diferença entre "marcar evento" e "Criar atv"
